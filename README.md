@@ -7,4 +7,4 @@
 In the project directory, you can run:
 
 ### `Project from me`
-
+ [English-cards link here](https://admiring-leakey-b02f4c.netlify.app/).
